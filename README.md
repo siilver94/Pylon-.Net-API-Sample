@@ -1,3 +1,3 @@
-# plyon-.Net-API-sample
+# Pylon .Net API sample Code
 
-Cognex사 컴퓨터 비전 캠 Plyon의 샘플 코드
+**Cognex**사 컴퓨터 비전 캠인 Pylon의 샘플 코드 입니다.
